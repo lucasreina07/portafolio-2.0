@@ -1,0 +1,15 @@
+@import "map.css";
+@import "foo.css";
+
+html{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+body{
+    /*background-image: linear-gradient(100deg, #8c8f8e, #8e9494, #92999c, #989da4, #a0a1aa, #a8a3ac, #b0a6ad, #b7a9ad, #bbacab, #bdb0aa, #bcb5ab, #b9baaf);*/
+    background-color: #1B0F18;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
